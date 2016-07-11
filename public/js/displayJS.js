@@ -2,7 +2,7 @@
  * Created by aitor on 10/7/16.
  */
 $(document).ready(function() {
-    var url = 'https://eetacea0.upc.es:5000';
+    var url = 'https://eupbl007loc.upc.es:5000';
     var route = [];
     var markers = [];
     var img = document.getElementById("frame");
